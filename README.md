@@ -1,6 +1,8 @@
 # MatchMyCV: AI CV ↔ Job Matcher
 
 > See how well your CV matches a job **before you apply**.
+>
+> **Live demo:** https://matchmycv-jade.vercel.app
 
 Paste a job description and your CV (or upload a PDF). In under a minute, MatchMyCV gives you:
 
