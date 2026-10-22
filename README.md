@@ -58,4 +58,4 @@ Push to GitHub, import the repo on [Vercel](https://vercel.com/new), and add `AN
 
 ---
 
-Built by **[Your Name](https://www.linkedin.com/in/your-profile)**, Computer Science @ Lebanese International University.
+Built by **[Sireen Alzoughbi](https://github.com/SireenZo)**, Computer Science @ Lebanese International University.

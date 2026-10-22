@@ -82,7 +82,7 @@ export default function Home() {
           MatchMyCV
         </div>
         <a
-          href="https://github.com/"
+          href="https://github.com/SireenZo/matchmycv"
           target="_blank"
           rel="noreferrer"
           className="text-sm text-zinc-500 hover:text-zinc-900 dark:hover:text-zinc-100"

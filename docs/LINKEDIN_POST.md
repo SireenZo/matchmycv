@@ -22,7 +22,7 @@ You paste a job post and your CV (or upload a PDF), and in under a minute you ge
 What I learned: [one real lesson, e.g. "designing the output schema first made the whole UI simpler" or "prompting for honesty matters more than prompting for polish"].
 
 🔗 Try it: [your Vercel link]
-💻 Code: [your GitHub link]
+💻 Code: https://github.com/SireenZo/matchmycv
 
 I'd love your feedback, especially from recruiters and hiring managers. What should I add next?
 
